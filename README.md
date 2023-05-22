@@ -1,0 +1,2 @@
+# discordcommand
+/discord
